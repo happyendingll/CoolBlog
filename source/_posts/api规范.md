@@ -2,7 +2,7 @@
 title: api规范
 date: 2022-01-27 14:41:04
 tags:
-cover: /img/photo-1643149006342-2fa040c1b240.webp
+cover: /img/photo-1643170905849-725f0262f609.webp
 ---
 ### Restful接口规范
 1、不推荐使用 rest 命名 url， 只能使用 get/post 方法。url 命名上规范如下：虽然 Rest 大法好，但是有时并不能一眼根据 url看出来是什么操作。
